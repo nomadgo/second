@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #define SIZE 10
 
-void bubbleSort( int * array,size_t size );
+void bubbleSort( int *  array,size_t size );
 int main(void)
 {
 	int a[SIZE] = {2,6,4,8,10,12,89,68,45,37};
